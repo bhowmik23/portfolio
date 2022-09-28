@@ -1492,6 +1492,9 @@ span{
 .size-xs {
   font-size: 1rem !important;
 }
+.size-xl {
+  font-size: 4.5rem !important;
+}
 
 .size-sm {
   font-size: 1.55rem !important;
